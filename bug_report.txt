@@ -1,0 +1,15 @@
+	Bug report #2
+Summary	Chat - the creator group conversation cann`t renamed
+Severiry	medium
+Priority	Low
+Invironment	Intel i3 Win 10
+Description	The creator group of conversation cann`t renamed, but other participats can do it
+Steps to reproduse	"1. Open www.testsite.com
+2. Sign in login - test3, password  -12345
+3.Open chat dialog whith Provader1
+4.Click on the button Setting >>Add user
+5.Add any use to group conversation
+6.Click on the buttun Done
+7.Click to the Setting again >> Renamed a group conversation"
+Actuai result	The button "Rename conversation" is disable for the creator of group conversation
+Expected result	Any participant of a group of conversation should be able renamed the group conversation
